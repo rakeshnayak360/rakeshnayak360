@@ -2,6 +2,8 @@
 
 **rakeshnayak360/rakeshnayak360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=rakeshnayak360&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ReactJS
