@@ -1,4 +1,4 @@
-# Hi there ![enter image description here](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif) I'm Rakesh Nayak
+# Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" />  I'm Rakesh Nayak
 
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=rakeshnayak360&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
 
