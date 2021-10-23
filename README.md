@@ -1,4 +1,5 @@
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=rakeshnayak360.visitor-badge&left_text=MyPageVisitors)
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=rakeshnayak360&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
+
 <h1 align="center">Hi 👋, I'm Rakesh Nayak</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
   
@@ -39,7 +40,4 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/rakeshnayak360"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="190" alt="rakeshnayak360" /></a></p>
-<br><br><br>
-
-![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=rakeshnayak360&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
-
+<br><br>
