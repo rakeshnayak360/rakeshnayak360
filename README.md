@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rakesh Nayak</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<h3 align="center">
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=rakeshnayak360.visitor-badge&left_text=MyPageVisitors)
-
+</h3>
 - 🔭 I’m currently working on **ReactJS**
 
 - 🌱 I’m currently learning **ReactJS, Angular**
