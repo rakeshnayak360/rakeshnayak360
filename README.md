@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rakesh Nayak</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="center"> <a href="https://twitter.com/rakunayak" target="blank"><img src="https://img.shields.io/twitter/follow/rakunayak?logo=twitter&style=for-the-badge" alt="rakunayak" /></a> </p>
+<p align="center"> ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=rakeshnayak360.visitor-badge&left_text=You are my guest number:) </p>
 
 - 🔭 I’m currently working on **ReactJS**
 
