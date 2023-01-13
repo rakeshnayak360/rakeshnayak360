@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rakeshnayak360?tab=repositories](https://github.com/rakeshnayak360?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS, jQuery, Javascript, Bootstrap, AngularJS**
+- 💬 Ask me about **HTML, CSS, jQuery, Javascript, Bootstrap, ReactJS, AngularJS**
 
 - 📫 How to reach me **rakeshnayak360@gmail.com**
 
